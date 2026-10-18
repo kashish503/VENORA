@@ -1,0 +1,128 @@
+[
+  {
+    "userId": "671000000000000000000001",
+    "companyName": "Shree Timber Suppliers",
+    "industry": "Wood",
+    "product": "Plywood sheet",
+    "pricePerUnit": 850,
+    "qualityRating": 4.5,
+    "deliveryTimeDays": 3,
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000002",
+    "companyName": "GreenWood Materials",
+    "industry": "Wood",
+    "product": "Teak wood plank",
+    "pricePerUnit": 1650,
+    "qualityRating": 4.8,
+    "deliveryTimeDays": 5,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000003",
+    "companyName": "Haryana Timber House",
+    "industry": "Wood",
+    "product": "MDF board",
+    "pricePerUnit": 620,
+    "qualityRating": 4.1,
+    "deliveryTimeDays": 2,
+    "location": {
+      "city": "Panipat",
+      "state": "Haryana"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000004",
+    "companyName": "Aarav Steel Traders",
+    "industry": "Steel",
+    "product": "Mild steel rod",
+    "pricePerUnit": 72,
+    "qualityRating": 4.4,
+    "deliveryTimeDays": 2,
+    "location": {
+      "city": "Faridabad",
+      "state": "Haryana"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000005",
+    "companyName": "Prime Metal Works",
+    "industry": "Steel",
+    "product": "Stainless steel sheet",
+    "pricePerUnit": 2400,
+    "qualityRating": 4.8,
+    "deliveryTimeDays": 5,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000006",
+    "companyName": "Northline Steel Supplies",
+    "industry": "Steel",
+    "product": "Steel angle",
+    "pricePerUnit": 68,
+    "qualityRating": 4.0,
+    "deliveryTimeDays": 3,
+    "location": {
+      "city": "Rohtak",
+      "state": "Haryana"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000007",
+    "companyName": "Shakti Textiles",
+    "industry": "Textile",
+    "product": "Cotton fabric",
+    "pricePerUnit": 95,
+    "qualityRating": 4.6,
+    "deliveryTimeDays": 3,
+    "location": {
+      "city": "Panipat",
+      "state": "Haryana"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000008",
+    "companyName": "WeaveWell Fabrics",
+    "industry": "Textile",
+    "product": "Denim fabric",
+    "pricePerUnit": 180,
+    "qualityRating": 4.3,
+    "deliveryTimeDays": 4,
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    "isActive": true
+  },
+  {
+    "userId": "671000000000000000000009",
+    "companyName": "ColorCotton Suppliers",
+    "industry": "Textile",
+    "product": "Polyester fabric",
+    "pricePerUnit": 75,
+    "qualityRating": 4.0,
+    "deliveryTimeDays": 2,
+    "location": {
+      "city": "Jaipur",
+      "state": "Rajasthan"
+    },
+    "isActive": true
+  }
+]
