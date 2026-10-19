@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.db
+*.db-shm
+*.db-wal
+*.log
+backend_backup_before_update/

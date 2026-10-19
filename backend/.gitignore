@@ -8,3 +8,7 @@ build/
 
 *.log
 .DS_Store
+# Local SQLite database files
+*.db
+*.db-shm
+*.db-wal
